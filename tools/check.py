@@ -26,6 +26,8 @@ NAME = re.compile(r"^[a-z][a-z0-9_]*$")
 GIT = re.compile(r"^https://[A-Za-z0-9.-]+/[A-Za-z0-9._/-]+$")
 KEYWORD = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 TAG = re.compile(r"^v(\d+)\.(\d+)\.(\d+)$")
+# Names the package catalog uses for its own sections.
+RESERVED = {"index", "publish", "using"}
 REQUIRED = {"name": str, "git": str, "description": str, "license": str}
 OPTIONAL = {"keywords": list, "maintainers": list, "homepage": str}
 
@@ -50,6 +52,8 @@ def check_entry(path, problems):
     if isinstance(name, str):
         if not NAME.match(name):
             problems.append(f"{file}: name '{name}': lower-case letters, digits and '_', starting with a letter")
+        if name in RESERVED:
+            problems.append(f"{file}: '{name}' is reserved")
         if file != f"{name}.toml":
             problems.append(f"{file}: the file is named after the package: {name}.toml")
     if isinstance(entry.get("git"), str) and not GIT.match(entry["git"]):

@@ -49,7 +49,8 @@ public, have a `vX.Y.Z` tag, and name the package `NAME` in `eskiu.toml` at that
 ## The rules
 
 - **Names are first come, first served** and match `eskiu.toml`: lower-case letters, digits
-  and `_`, starting with a letter. The file is `packages/NAME.toml`.
+  and `_`, starting with a letter (`index`, `publish` and `using` are reserved). The file is
+  `packages/NAME.toml`.
 - **One entry per repository**, and the entry points at the repository its maintainers own.
 - `name`, `git`, `description` (up to 160 characters) and `license` (an SPDX id) are
   required; `keywords` (up to 8), `maintainers` (GitHub users or organizations) and

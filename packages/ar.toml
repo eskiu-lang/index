@@ -1,0 +1,6 @@
+name = "ar"
+git = "https://github.com/eskiu-packages/ar"
+description = "AR sessions for Eskiu apps: ARKit, ARCore and WebXR planes, anchors, hit tests, light, depth, meshes, faces and bodies"
+license = "MIT"
+keywords = ["ar", "arkit", "arcore", "webxr", "ui"]
+maintainers = ["eskiu-packages"]

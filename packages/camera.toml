@@ -1,0 +1,6 @@
+name = "camera"
+git = "https://github.com/eskiu-packages/ui-camera"
+description = "Photos for ui apps: the photo library, the system's camera and a live camera view"
+license = "MIT"
+keywords = ["ui", "camera"]
+maintainers = ["eskiu-packages"]

@@ -1,0 +1,6 @@
+name = "canvas"
+git = "https://github.com/eskiu-packages/ui-canvas"
+description = "A 2D canvas for ui apps (the GPU on phones, Canvas 2D on the web) or offscreen"
+license = "MIT"
+keywords = ["ui", "2d", "graphics"]
+maintainers = ["eskiu-packages"]

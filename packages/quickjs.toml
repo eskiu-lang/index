@@ -1,0 +1,6 @@
+name = "quickjs"
+git = "https://github.com/eskiu-packages/quickjs"
+description = "QuickJS for Eskiu: run JavaScript from Eskiu programs"
+license = "MIT"
+keywords = ["javascript", "scripting"]
+maintainers = ["eskiu-packages"]

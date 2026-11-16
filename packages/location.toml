@@ -1,0 +1,6 @@
+name = "location"
+git = "https://github.com/eskiu-packages/ui-location"
+description = "Where the device is, for ui apps"
+license = "MIT"
+keywords = ["ui", "location", "gps"]
+maintainers = ["eskiu-packages"]

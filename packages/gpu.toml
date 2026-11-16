@@ -1,0 +1,6 @@
+name = "gpu"
+git = "https://github.com/eskiu-packages/gpu"
+description = "GPU compute and rendering for Eskiu over WebGPU, with glTF models, image-based lighting and machine learning"
+license = "MIT"
+keywords = ["gpu", "webgpu", "graphics", "ml"]
+maintainers = ["eskiu-packages"]

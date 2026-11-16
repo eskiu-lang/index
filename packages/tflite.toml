@@ -1,0 +1,6 @@
+name = "tflite"
+git = "https://github.com/eskiu-packages/tflite"
+description = "TensorFlow Lite (LiteRT) model inference for Eskiu"
+license = "MIT"
+keywords = ["ml", "tflite", "inference"]
+maintainers = ["eskiu-packages"]

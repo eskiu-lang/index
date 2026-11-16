@@ -1,0 +1,6 @@
+name = "compress"
+git = "https://github.com/eskiu-packages/compress"
+description = "DEFLATE, zlib, gzip and ZIP for Eskiu, in pure Eskiu"
+license = "MIT"
+keywords = ["compression", "zip", "gzip"]
+maintainers = ["eskiu-packages"]

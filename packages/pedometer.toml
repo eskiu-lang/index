@@ -1,0 +1,6 @@
+name = "pedometer"
+git = "https://github.com/eskiu-packages/ui-pedometer"
+description = "Steps walked, live and between two times, for ui apps on iOS and Android"
+license = "MIT"
+keywords = ["ui", "sensors"]
+maintainers = ["eskiu-packages"]

@@ -1,0 +1,6 @@
+name = "notifications"
+git = "https://github.com/eskiu-packages/ui-notifications"
+description = "Local notifications for ui apps, shown also with the app closed"
+license = "MIT"
+keywords = ["ui", "notifications"]
+maintainers = ["eskiu-packages"]

@@ -1,0 +1,6 @@
+name = "yaml"
+git = "https://github.com/eskiu-packages/yaml"
+description = "YAML configuration files read into the standard library's JSON tree"
+license = "MIT"
+keywords = ["yaml", "config", "parsing"]
+maintainers = ["eskiu-packages"]

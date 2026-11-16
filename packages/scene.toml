@@ -1,0 +1,6 @@
+name = "scene"
+git = "https://github.com/eskiu-packages/scene"
+description = "A scene graph and material renderer on gpu: PBR, lights, shadows, input, physics, animation, particles and headsets"
+license = "MIT"
+keywords = ["3d", "rendering", "physics", "xr"]
+maintainers = ["eskiu-packages"]

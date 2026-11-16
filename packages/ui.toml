@@ -1,0 +1,6 @@
+name = "ui"
+git = "https://github.com/eskiu-packages/ui"
+description = "Native apps from one Eskiu codebase for iOS, Android, the web and the desktop"
+license = "MIT"
+keywords = ["ui", "apps", "mobile", "web"]
+maintainers = ["eskiu-packages"]

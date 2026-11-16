@@ -1,0 +1,6 @@
+name = "font"
+git = "https://github.com/eskiu-packages/font"
+description = "TrueType fonts for Eskiu: glyph rendering, text layout and atlases"
+license = "MIT"
+keywords = ["font", "text", "truetype"]
+maintainers = ["eskiu-packages"]

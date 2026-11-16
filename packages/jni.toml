@@ -1,0 +1,6 @@
+name = "jni"
+git = "https://github.com/eskiu-packages/jni"
+description = "JNI for Eskiu: Android and JVM native libraries written in Eskiu"
+license = "MIT"
+keywords = ["android", "jvm", "jni"]
+maintainers = ["eskiu-packages"]

@@ -1,0 +1,6 @@
+name = "arscene"
+git = "https://github.com/eskiu-packages/arscene"
+description = "An ar session drawn with scene: the camera behind the scene, depth occlusion, tap to place, image markers and the world mesh"
+license = "MIT"
+keywords = ["ar", "3d", "scene", "ui"]
+maintainers = ["eskiu-packages"]

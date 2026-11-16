@@ -1,0 +1,6 @@
+name = "onnx"
+git = "https://github.com/eskiu-packages/onnx"
+description = "ONNX model inference for Eskiu, over ONNX Runtime"
+license = "MIT"
+keywords = ["ml", "onnx", "inference"]
+maintainers = ["eskiu-packages"]

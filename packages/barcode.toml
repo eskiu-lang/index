@@ -1,0 +1,6 @@
+name = "barcode"
+git = "https://github.com/eskiu-packages/ui-barcode"
+description = "QR codes and barcodes read live from the camera, for ui apps"
+license = "MIT"
+keywords = ["ui", "camera", "barcode"]
+maintainers = ["eskiu-packages"]

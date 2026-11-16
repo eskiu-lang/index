@@ -1,0 +1,6 @@
+name = "svg"
+git = "https://github.com/eskiu-packages/ui-svg"
+description = "Vector drawings from SVG text, for ui apps"
+license = "MIT"
+keywords = ["ui", "svg", "graphics"]
+maintainers = ["eskiu-packages"]

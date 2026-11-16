@@ -1,0 +1,6 @@
+name = "nds"
+git = "https://github.com/eskiu-packages/nds"
+description = "Nintendo DS file formats for Eskiu: ROMs, NARC, SDAT sound, 2D graphics, 3D textures and models"
+license = "MIT"
+keywords = ["nintendo-ds", "formats", "games"]
+maintainers = ["eskiu-packages"]

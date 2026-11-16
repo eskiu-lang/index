@@ -1,0 +1,6 @@
+name = "video"
+git = "https://github.com/eskiu-packages/video"
+description = "Video playback for ui apps: native players and decoded frames on iOS, Android and the web"
+license = "MIT"
+keywords = ["ui", "video", "media"]
+maintainers = ["eskiu-packages"]

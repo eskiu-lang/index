@@ -1,0 +1,6 @@
+name = "securestore"
+git = "https://github.com/eskiu-packages/ui-securestore"
+description = "Small secrets in the Keychain and the Android Keystore, for ui apps"
+license = "MIT"
+keywords = ["ui", "security", "storage"]
+maintainers = ["eskiu-packages"]
